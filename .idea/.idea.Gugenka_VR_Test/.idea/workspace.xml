@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3167ba89-74dc-40d5-96af-c3472bc300d3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/VRCDefaultWorldScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/VRCDefaultWorldScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/VRCDefaultWorldScene.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/VRCDefaultWorldScene.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/VRCDefaultWorldScene/GridFloor_udon.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/VRCDefaultWorldScene/GridFloor_udon.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/VRCDefaultWorldScene/GridFloor_udon.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/VRCDefaultWorldScene/GridFloor_udon.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/VRCDefaultWorldScene/GridFloor_udon.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/VRCDefaultWorldScene/GridFloor_udon.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/VRCDefaultWorldScene/ImageMaterial.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/VRCDefaultWorldScene/ImageMaterial.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/VRCDefaultWorldScene/MirrorReflection.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/VRCDefaultWorldScene/MirrorReflection.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/VRCDefaultWorldScene/SKY_UdonLab.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/VRCDefaultWorldScene/SKY_UdonLab.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/VRCDefaultWorldScene/SampleAssetsSet_V1_phong1_AlbedoTransparency.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/VRCDefaultWorldScene/SampleAssetsSet_V1_phong1_AlbedoTransparency.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/VRCDefaultWorldScene/SampleAssetsSet_V1_phong1_MetallicSmoothness.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/VRCDefaultWorldScene/SampleAssetsSet_V1_phong1_MetallicSmoothness.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/VRCDefaultWorldScene/SampleAssetsSet_V1_phong1_Normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/VRCDefaultWorldScene/SampleAssetsSet_V1_phong1_Normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/VRCDefaultWorldScene/SampleAssets_matte.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/VRCDefaultWorldScene/SampleAssets_matte.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/VRCDefaultWorldScene/SampleAssets_matte.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/VRCDefaultWorldScene/SampleAssets_matte.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UdonSharp/UtilityScripts/BoneFollower.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UdonSharp/UtilityScripts/BoneFollower.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UdonSharp/UtilityScripts/InteractToggle.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UdonSharp/UtilityScripts/InteractToggle.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UdonSharp/UtilityScripts/PlayerModSetter.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UdonSharp/UtilityScripts/PlayerModSetter.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UdonSharp/UtilityScripts/Synced/GlobalToggleObject.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UdonSharp/UtilityScripts/Synced/GlobalToggleObject.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UdonSharp/UtilityScripts/Synced/MasterToggleObject.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UdonSharp/UtilityScripts/Synced/MasterToggleObject.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UdonSharp/UtilityScripts/TrackingDataFollower.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UdonSharp/UtilityScripts/TrackingDataFollower.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UdonSharp/UtilityScripts/WorldAudioSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UdonSharp/UtilityScripts/WorldAudioSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/XRPackageSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/XRPackageSettings.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2phPfbcblB5dvVRATiZIWKANNmA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3167ba89-74dc-40d5-96af-c3472bc300d3" name="Changes" comment="" />
+      <created>1733215441616</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733215441616</updated>
+      <workItem from="1733215443498" duration="1000" />
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
