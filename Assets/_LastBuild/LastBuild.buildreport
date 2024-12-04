@@ -1,0 +1,352 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1126 &-8432049882075448322
+PackedAssets:
+  m_ShortPath: CAB-8684dde4a61a81976908e677bbcc3bf9
+  m_Overhead: 4032
+  m_Contents:
+  - fileID: 1
+    classID: 142
+    packedSize: 104
+    offset: 4032
+    sourceAssetGUID: 00000000000000000000000000000000
+    buildTimeAssetPath: AssetBundle Object
+  - fileID: 2
+    classID: 290
+    packedSize: 120
+    offset: 4136
+    sourceAssetGUID: 00000000000000000000000000000000
+    buildTimeAssetPath: 'Built-in AssetBundleManifest: AssetBundleManifest'
+--- !u!668709126 &-7504526423327308750
+BuiltAssetBundleInfoSet:
+  bundleInfos:
+  - bundleName: scene-standalonewindows64-vrcdefaultworldscene.vrcw
+    bundleArchiveFile: 2
+    packagedFileIndices: 0000000001000000
+  - bundleName: New Project
+    bundleArchiveFile: 5
+    packagedFileIndices: 04000000
+--- !u!1521398425 &-7464226131959650981
+VideoBuildInfo:
+  m_VideoClipCount: 0
+  m_IsVideoModuleDisabled: 0
+--- !u!641289076 &-939490869121821790
+AudioBuildInfo:
+  m_IsAudioDisabled: 0
+  m_AudioClipCount: 0
+  m_AudioMixerCount: 0
+--- !u!1125 &1
+BuildReport:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Build AssetBundles
+  m_Summary:
+    buildStartTime:
+      serializedVersion: 2
+      ticks: 638688130689362525
+    buildGUID: 00000000000000000000000000000000
+    platformName: Win64
+    platformGroupName: Standalone
+    subtarget: 0
+    options: 0
+    assetBundleOptions: 32
+    outputPath: C:/Users/Gandrel/AppData/Local/Temp/DefaultCompany/New Project
+    crc: 3846141478
+    totalSize: 127134
+    totalTimeTicks: 313234806
+    totalErrors: 0
+    totalWarnings: 0
+    buildType: 2
+    buildResult: 1
+  m_Files:
+  - path: D:/Game Projects/Unity/Ongoing Project(s)/Unity-VR/Gugenka_VR_Test/scene-standalonewindows64-vrcdefaultworldscene.vrcw/BuildPlayer-VRCDefaultWorldScene
+    role: Scene
+    id: 0
+    totalSize: 178016
+  - path: D:/Game Projects/Unity/Ongoing Project(s)/Unity-VR/Gugenka_VR_Test/scene-standalonewindows64-vrcdefaultworldscene.vrcw/BuildPlayer-VRCDefaultWorldScene.sharedAssets
+    role: SharedAssets
+    id: 1
+    totalSize: 898892
+  - path: D:/Game Projects/Unity/Ongoing Project(s)/Unity-VR/Gugenka_VR_Test/scene-standalonewindows64-vrcdefaultworldscene.vrcw
+    role: AssetBundle
+    id: 2
+    totalSize: 124217
+  - path: D:/Game Projects/Unity/Ongoing Project(s)/Unity-VR/Gugenka_VR_Test/scene-standalonewindows64-vrcdefaultworldscene.vrcw.manifest
+    role: AssetBundleTextManifest
+    id: 3
+    totalSize: 1680
+  - path: D:/Game Projects/Unity/Ongoing Project(s)/Unity-VR/Gugenka_VR_Test/New
+      Project/CAB-8684dde4a61a81976908e677bbcc3bf9
+    role: ResourcesFile
+    id: 4
+    totalSize: 4256
+  - path: D:/Game Projects/Unity/Ongoing Project(s)/Unity-VR/Gugenka_VR_Test/New
+      Project
+    role: ManifestAssetBundle
+    id: 5
+    totalSize: 1058
+  - path: D:/Game Projects/Unity/Ongoing Project(s)/Unity-VR/Gugenka_VR_Test/New
+      Project.manifest
+    role: AssetBundleTextManifest
+    id: 6
+    totalSize: 179
+  m_BuildSteps:
+  - stepName: Build Asset Bundles
+    durationTicks: 313234806
+    depth: 0
+    messages: []
+  - stepName: Calculate asset bundles to be built
+    durationTicks: 34337
+    depth: 1
+    messages: []
+  - stepName: Prebuild Cleanup and Recompile
+    durationTicks: 228153584
+    depth: 1
+    messages: []
+  - stepName: Compile scripts
+    durationTicks: 227685917
+    depth: 2
+    messages: []
+  - stepName: Generate and validate platform script types
+    durationTicks: 407344
+    depth: 2
+    messages: []
+  - stepName: Build Scene AssetBundle(s)
+    durationTicks: 52730671
+    depth: 1
+    messages: []
+  - stepName: 'Build bundle: scene-standalonewindows64-vrcdefaultworldscene.vrcw'
+    durationTicks: 51051331
+    depth: 2
+    messages: []
+  - stepName: Verify Build setup
+    durationTicks: 332820
+    depth: 3
+    messages: []
+  - stepName: Prepare assets for target platform
+    durationTicks: 459011
+    depth: 3
+    messages: []
+  - stepName: Prepare splash screen
+    durationTicks: 356054
+    depth: 3
+    messages:
+    - type: 3
+      content: Including Unity Splash Screen logo because 'Show Unity Logo' is enabled.
+  - stepName: Building scenes
+    durationTicks: 21659478
+    depth: 3
+    messages: []
+  - stepName: Building scene Assets/Scenes/VRCDefaultWorldScene.unity
+    durationTicks: 21658690
+    depth: 4
+    messages:
+    - type: 3
+      content: Computed code signatures for 74 scripts of type SerializedUdonProgramAsset
+        in 5ms
+  - stepName: Writing asset files
+    durationTicks: 20894831
+    depth: 3
+    messages: []
+  - stepName: Packaging assets - archive:/BuildPlayer-VRCDefaultWorldScene/BuildPlayer-VRCDefaultWorldScene.sharedAssets
+    durationTicks: 20822295
+    depth: 4
+    messages: []
+  - stepName: Creating compressed player package
+    durationTicks: 1338607
+    depth: 3
+    messages: []
+  - stepName: Postprocess built player
+    durationTicks: 75160
+    depth: 3
+    messages: []
+  m_Appendices:
+  - {fileID: -7504526423327308750}
+  - {fileID: 886520610426503073}
+  - {fileID: 7334010549218216956}
+  - {fileID: -939490869121821790}
+  - {fileID: -7464226131959650981}
+  - {fileID: -8432049882075448322}
+--- !u!1126 &886520610426503073
+PackedAssets:
+  m_ShortPath: BuildPlayer-VRCDefaultWorldScene.sharedAssets
+  m_Overhead: 88823
+  m_Contents:
+  - fileID: 1
+    classID: 150
+    packedSize: 49
+    offset: 89440
+    sourceAssetGUID: 00000000000000000000000000000000
+    buildTimeAssetPath: 
+  - fileID: 2
+    classID: 142
+    packedSize: 176
+    offset: 89496
+    sourceAssetGUID: 00000000000000000000000000000000
+    buildTimeAssetPath: 
+  - fileID: 3
+    classID: 21
+    packedSize: 1080
+    offset: 89672
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 4
+    classID: 21
+    packedSize: 912
+    offset: 90752
+    sourceAssetGUID: 86b2b3563589f6749bf3cf045cfcd08e
+    buildTimeAssetPath: Assets/Scenes/VRCDefaultWorldScene/GridFloor_udon.mat
+  - fileID: 5
+    classID: 21
+    packedSize: 696
+    offset: 91664
+    sourceAssetGUID: 0e89c7b1e5fbf54428eb676e7e403df1
+    buildTimeAssetPath: Assets/Scenes/VRCDefaultWorldScene/SKY_UdonLab.mat
+  - fileID: 6
+    classID: 28
+    packedSize: 699196
+    offset: 92360
+    sourceAssetGUID: 044d3bc4c6c2ee24e96c06d809dca398
+    buildTimeAssetPath: Assets/Scenes/VRCDefaultWorldScene/GridFloor_udon.png
+  - fileID: 7
+    classID: 48
+    packedSize: 17324
+    offset: 791560
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 8
+    classID: 48
+    packedSize: 75132
+    offset: 808888
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 9
+    classID: 48
+    packedSize: 10256
+    offset: 884024
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 10
+    classID: 115
+    packedSize: 96
+    offset: 88784
+    sourceAssetGUID: 4ecd63eff847044b68db9453ce219299
+    buildTimeAssetPath: Packages/com.vrchat.base/Runtime/VRCSDK/Plugins/VRCCore-Editor.dll
+  - fileID: 11
+    classID: 115
+    packedSize: 108
+    offset: 88880
+    sourceAssetGUID: 661092b4961be7145bfbe56e1e62337b
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/VRCSDK/Plugins/VRCSDK3.dll
+  - fileID: 12
+    classID: 115
+    packedSize: 84
+    offset: 88992
+    sourceAssetGUID: 45115577ef41a5b4ca741ed302693907
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/Udon/UdonBehaviour.cs
+  - fileID: 13
+    classID: 115
+    packedSize: 124
+    offset: 89080
+    sourceAssetGUID: 4f231c4fb786f3946a6b90b886c48677
+    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/EventSystem/InputModules/StandaloneInputModule.cs
+  - fileID: 14
+    classID: 115
+    packedSize: 100
+    offset: 89208
+    sourceAssetGUID: 76c392e42b5098c458856cdf6ecaaaa1
+    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/EventSystem/EventSystem.cs
+  - fileID: 15
+    classID: 115
+    packedSize: 124
+    offset: 89312
+    sourceAssetGUID: bf61d954ecb803046953c666facfb904
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/Udon/ProgramSources/SerializedUdonProgramAsset.cs
+  - fileID: 16
+    classID: 114
+    packedSize: 2896
+    offset: 894280
+    sourceAssetGUID: 321f0b61eeea2264a82e38bd98abf712
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/566cc00e27d5822449529a3785eae366.asset
+  - fileID: 17
+    classID: 114
+    packedSize: 1716
+    offset: 897176
+    sourceAssetGUID: cc80fcaccb8caee47996a2d7d18561ae
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/c8df303ceb45ae84f85a11591f741734.asset
+--- !u!382020655 &7334010549218216956
+PluginBuildInfo:
+  m_RuntimePlugins:
+  - VRC.Udon.VM
+  - VRC.SDK3.Dynamics.PhysBone
+  - VRC.Udon.Security
+  - libvrc_fast_crypto
+  - VRCEconomy
+  - libvrc_image_loader
+  - YamlDotNet
+  - VRCSDK3
+  - nunit.framework
+  - VRCCore-Editor
+  - Serilog.Sinks.File
+  - vrc_fast_crypto
+  - VRC.SDK3.Dynamics.Contact
+  - System.Collections.Immutable
+  - OculusXRPlugin
+  - VRC.Udon.Wrapper
+  - vrc_image_loader
+  - Unity.Burst.Unsafe
+  - SemanticVersioning
+  - librsync.net
+  - OVRPlugin
+  - System.Runtime.CompilerServices.Unsafe
+  - Newtonsoft.Json
+  - Unity.Collections.LowLevel.ILSupport
+  - VRC.Udon.Common
+  - VRC.Udon.VRCWrapperModules
+  - VRC.Dynamics
+  - VRCSDKBase
+  - VRC.Utility
+  - portmidi
+  - VRC.Udon.ClientBindings
+  - SDKBase-Legacy
+  - Blake2Sharp
+  - VRC.SDK3.Dynamics.Constraint
+  - System.Text.Encoding.CodePages
+  - Serilog
+  - Collections.Pooled
+  - AudioPluginOculusSpatializer
+  m_EditorPlugins:
+  - VRC.Udon.VRCGraphModules
+  - VRC.Udon.EditorBindings
+  - 0Harmony
+  - VRC.SDK3.Dynamics.Contact.Editor
+  - libvrc_shader_compiler_plugin
+  - Mono.Cecil.Pdb
+  - JetBrains.Rider.PathLocator
+  - vrc_shader_compiler_plugin
+  - VRCSDKBase-Editor
+  - Microsoft.CodeAnalysis.CSharp
+  - VRC.Udon.VRCTypeResolverModules
+  - VRCEconomy-Editor
+  - ICSharpCode.SharpZipLib
+  - VRC.SDK3.Dynamics.Constraint.Editor
+  - AppleEventIntegration
+  - Mono.Cecil
+  - VRC.Udon.Graph
+  - Unity.Burst.Cecil.Pdb
+  - Mono.Cecil.Rocks
+  - Microsoft.CodeAnalysis
+  - VRC.Udon.Compiler
+  - System.Reflection.Metadata
+  - VRCSDK3-Editor
+  - Mono.Cecil.Mdb
+  - Serilog.Sinks.Unity3D
+  - Algolia.Search
+  - Unity.Burst.Cecil.Mdb
+  - VRC.SDK3.Dynamics.PhysBone.Editor
+  - Unity.Burst.Cecil
+  - Unity.Burst.Cecil.Rocks
+  - vpm-core-lib
+  - VRC.Udon.UAssembly
