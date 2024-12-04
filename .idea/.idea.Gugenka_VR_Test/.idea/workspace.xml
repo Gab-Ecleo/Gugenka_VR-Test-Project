@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3167ba89-74dc-40d5-96af-c3472bc300d3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Gugenka_VR_Test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Gugenka_VR_Test/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/VRCDefaultWorldScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/VRCDefaultWorldScene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/SerializedUdonPrograms/111765fc3c115894590e1ac5449b5925.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SerializedUdonPrograms/111765fc3c115894590e1ac5449b5925.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/SerializedUdonPrograms/470765fc3c115894590e1ac5449b5925.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SerializedUdonPrograms/470765fc3c115894590e1ac5449b5925.asset" afterDir="false" />
@@ -92,7 +93,7 @@
       <workItem from="1733215443498" duration="1000" />
       <workItem from="1733215974632" duration="11000" />
       <workItem from="1733216852086" duration="1000" />
-      <workItem from="1733216878397" duration="632000" />
+      <workItem from="1733216878397" duration="1226000" />
     </task>
     <servers />
   </component>

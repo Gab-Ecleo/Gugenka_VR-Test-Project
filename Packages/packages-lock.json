@@ -233,13 +233,6 @@
       },
       "url": "https://packages.unity.com"
     },
-    "com.unity.xr.oculus.standalone": {
-      "version": "2.38.4",
-      "depth": 1,
-      "source": "registry",
-      "dependencies": {},
-      "url": "https://packages.unity.com"
-    },
     "com.vrchat.base": {
       "version": "file:com.vrchat.base",
       "depth": 0,
@@ -254,15 +247,6 @@
         "com.unity.xr.oculus": "4.0.0",
         "com.unity.postprocessing": "3.2.2",
         "com.unity.ugui": "1.0.0"
-      }
-    },
-    "com.vrchat.clientsim": {
-      "version": "file:com.vrchat.ClientSim",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {
-        "com.unity.xr.oculus.standalone": "2.38.4",
-        "com.unity.inputsystem": "1.2.0"
       }
     },
     "com.vrchat.core.vpm-resolver": {
