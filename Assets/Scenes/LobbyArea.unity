@@ -10398,7 +10398,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   launchedFromSDKPipeline: 0
   completedSDKPipeline: 0
-  blueprintId: 
+  blueprintId: wrld_a5f8c6b3-3278-44c8-8f1b-fc51c80b597c
   contentType: 1
   assetBundleUnityVersion: 
   fallbackStatus: 0
@@ -10442,13 +10442,14 @@ MonoBehaviour:
   useAssignedLayers: 0
   DynamicPrefabs: []
   DynamicMaterials:
-  - {fileID: 2100000, guid: d092228a9ddc1cb45bc1ad024c9e0563, type: 2}
+  - {fileID: 2100000, guid: c815f7613a04b724089c206857e57c6a, type: 2}
+  - {fileID: 2100000, guid: 872c3db5e9ec52e4dbbbbf3a1a2553da, type: 2}
+  - {fileID: 2100000, guid: 0604fc5356ad7964d925f0977bfd7e4e, type: 2}
   - {fileID: 2100000, guid: 41e7eb9dddccad848aba6593d6c0557d, type: 2}
+  - {fileID: 2100000, guid: 01a91b275621efc4f90d7a2f57173a77, type: 2}
+  - {fileID: 2100000, guid: d092228a9ddc1cb45bc1ad024c9e0563, type: 2}
   - {fileID: 2100000, guid: 93caadf4359ae8143aad35b3145d31af, type: 2}
   - {fileID: 2100000, guid: 7463c812e6e2d304291c0741479138a1, type: 2}
-  - {fileID: 2100000, guid: 01a91b275621efc4f90d7a2f57173a77, type: 2}
-  - {fileID: 2100000, guid: 0604fc5356ad7964d925f0977bfd7e4e, type: 2}
-  - {fileID: 2100000, guid: d2b7b443703e70848bdf79e0939b639f, type: 2}
   LightMapsNear: []
   LightMapsFar: []
   LightMode: 0
